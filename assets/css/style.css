@@ -523,7 +523,7 @@ p {
       4.PRICING css 
 ===========================*/
 .pricing-area {
-  padding-top: 120px;
+  padding-top: 60px;
   padding-bottom: 120px;
   background-color: #f4f6f7; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
